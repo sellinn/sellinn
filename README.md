@@ -17,8 +17,8 @@
 <a href="#" target="_blank"> <img src="https://static.wixstatic.com/media/e16c6a_3ad31c0baa1d45e88d15b1f9ed24b576~mv2.png/v1/fit/w_400%2Ch_232%2Cal_c/file.png" alt="Tableau" width="70" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="70" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://vistapointe.net/images/python-wallpaper-3.jpg" alt="Python" width="70" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"  width="70" height="40"/>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" alt="mssql" width="70" height="40"/>
+
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" alt="mssql" width="70" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://aptgadget.com/wp-content/uploads/2018/10/jira-alternatives-1024x501.png" width="60" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" width="65" height="30"/> </a>
   
