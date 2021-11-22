@@ -22,7 +22,7 @@
 <a href="#" target="_blank"> <img src="https://aptgadget.com/wp-content/uploads/2018/10/jira-alternatives-1024x501.png" width="60" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" width="65" height="30"/> </a>
   
-  
+ 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=sellinn&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sellinn&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
